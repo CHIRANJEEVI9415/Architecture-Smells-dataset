@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/Users/palesnow/Downloads/ood4/maven-java9-jigsaw-master/fd-java9-jigsaw-gui/src/main/java/nl/frisodobber/java9/jigsaw/calculator/gui/Main.java,nl.frisodobber.java9.jigsaw.calculator.gui.Main,loadAlgorithms/0,algorithms,1
+/Users/palesnow/Downloads/ood4/maven-java9-jigsaw-master/fd-java9-jigsaw-gui/src/main/java/nl/frisodobber/java9/jigsaw/calculator/gui/Main.java,nl.frisodobber.java9.jigsaw.calculator.gui.Main,start/1[nl.frisodobber.java9.jigsaw.calculator.gui.Stage],algorithms,1
+/Users/palesnow/Downloads/ood4/maven-java9-jigsaw-master/fd-java9-jigsaw-cli/src/main/java/nl/frisodobber/java9/jigsaw/calculator/cli/Main.java,nl.frisodobber.java9.jigsaw.calculator.cli.Main,getAlgorithm/1[java.io.Console],algorithmMap,3
+/Users/palesnow/Downloads/ood4/maven-java9-jigsaw-master/fd-java9-jigsaw-cli/src/main/java/nl/frisodobber/java9/jigsaw/calculator/cli/Main.java,nl.frisodobber.java9.jigsaw.calculator.cli.Main,loadAlgorithms/0,algorithms,2
+/Users/palesnow/Downloads/ood4/maven-java9-jigsaw-master/fd-java9-jigsaw-cli/src/main/java/nl/frisodobber/java9/jigsaw/calculator/cli/Main.java,nl.frisodobber.java9.jigsaw.calculator.cli.Main,loadAlgorithms/0,algorithmMap,2

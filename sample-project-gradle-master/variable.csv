@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,transactionReceipt,1
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,credentials,2
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,web3j,3
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,transferReceipt,1
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,contract,5
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,contractGasProvider,1
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,contractAddress,2
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,run/0,event,4
+/Users/palesnow/Downloads/ood4/sample-project-gradle-master/src/main/java/org/web3j/sample/Application.java,org.web3j.sample.Application,main/1[java.lang.String[]],args,0
